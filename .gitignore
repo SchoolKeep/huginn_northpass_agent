@@ -1,0 +1,8 @@
+spec/huginn
+.env
+Gemfile.lock
+.ruby-gemset
+.ruby-version
+.rakeTasks
+.idea
+coverage
